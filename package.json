@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon app.js"
   },
   "author": "Muasya",
   "license": "ISC",
@@ -16,4 +17,5 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
+  
 }
